@@ -8,6 +8,7 @@ from problem_set_1 import *
 from problem_set_2 import *
 from problem_set_3 import *
 
+
 def main():
   """
   Place code within this main function to call whichever functions you want 
@@ -15,7 +16,13 @@ def main():
   """
 
   # for example... the following line will call the bark() function in problem_set_1 whenever this main.py file is run.
-  bark()
+  #bark()
+  #bark_with_validation()
+  #respond_to_anything()
+  #respond_to_anything_but_nonsense()
+  #weather_helper()
+  
+
 
 # call the main function
 main()
